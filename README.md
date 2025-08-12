@@ -19,30 +19,6 @@ Animate Node Generator est une application Python avec interface graphique (Tkin
 ## 📜 Exemple de SVG généré
 ![output_animated](https://github.com/user-attachments/assets/998c03a0-7b1f-484c-a412-a43a9a5ecb8a)
 
-
-
-
-## 🚀 Installation
-
-1. Clonez le dépôt :
-
-   ```sh
-   git clone https://github.com/votre-utilisateur/nodedrawer.git
-   cd nodedrawer
-   ```
-
-2. Installez les dépendances :
-
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-3. Lancez l'application :
-
-   ```sh
-   python nodeInterface.py
-   ```
-
 ## 🛠 Technologies utilisées
 
 - Python
